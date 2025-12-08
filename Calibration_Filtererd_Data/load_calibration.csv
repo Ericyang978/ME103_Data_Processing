@@ -1,7 +1,7 @@
 test_id,description,true_load_lbf,instron_load_lbf
 1,no weight,0.0, 0.0
 2,clevis only,8.39, 7.1161360306
-4,Clevis with weight A in air,58.39, 55.5029497631
-6,Clevis AB in air,108.39,106.192870427
-8,Clevis ABC in air,158.39,156.206444391
-10,Clevis ABCD in air,208.39,206.160655305
+4,Clevis with weight A in air, 50, 49.457967482
+6,Clevis AB in air,100,99.74535
+8,Clevis ABC in air,150,149.5930
+10,Clevis ABCD in air,200,199.520
